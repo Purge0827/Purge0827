@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Here are some ideas to get you started:
+### My name is Alex im 19 years old
 
 ### - 🔭 I’m currently working on Python, Javascript,Ruby
 ### - 🌱 I’m currently learning Rust,c++,c#
