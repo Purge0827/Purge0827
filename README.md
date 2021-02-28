@@ -5,7 +5,7 @@
 
 ### - 🔭 I’m currently working on Python, Javascript,Ruby
 ### - 🌱 I’m currently learning Rust,c++,c#
-### - ⚡ Fun fact: Im fun!
+### - ⚡ Fun fact: I got a request for verified bot developer
 ### - My Discord: Purge#1338
 ### - My Projects: Kirby BOT https://dsc.gg/kirbybot
 
